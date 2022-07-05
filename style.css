@@ -1,0 +1,185 @@
+body{
+   font-family: 'Playfair Display', serif;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0; 
+  
+}
+/* bannar part start */
+#bannar-section{
+  display: flex;
+  padding: 50px 0;
+  width: 1140px;
+  margin: 0 auto;
+}
+.bannar-part1{
+  width: 50%;
+  padding-top: 110px;
+}
+.bannar-part1 h1{
+font-size: 40px;
+
+}
+span{
+  color: orange;
+}
+.bannar-part1 p{
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+.bannar-part1 a{
+  text-decoration: none;
+  padding: 15px 35px;
+  background-image: linear-gradient(orange,red);
+  color: #fff;
+  border-radius: 30px;
+  font-weight: 600;
+}
+.bannar-part2{
+  width: 50%;
+}
+.bannar-part2 img{
+  width: 550px;
+}
+/* bannar-part end */
+/* about part start */
+#about-section{
+  display: flex;
+  background-image: url(img/7.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.container{
+  width: 1140px;
+  margin: 0 auto;
+  display: flex;
+}
+.about-part1{
+  width: 50%;
+  padding-top: 50px;
+}
+.about-part1 img{
+  width: 300px;
+}
+.about-part2{
+  width: 50%;
+  padding-top: 80px;
+}
+.about-part2 h1{
+  font-size: 40px;
+}
+.about-part2 p{
+  font-size: 16px;
+  padding-bottom: 20px;
+  line-height: 30px;
+  text-align: justify;
+}
+.about-part2 a{
+  text-decoration: none;
+  padding: 15px 35px;
+  background-image: linear-gradient(orange, red);
+  font-weight: 600;
+  color: #fff;
+  border-radius: 30px;
+}
+
+/* about part end */
+#recipi-section{
+  width: 1140px;
+  padding: 50px 0;
+  margin: 0 auto;
+}
+#recipi-section h1{
+  font-size: 40px;
+  text-align: center;
+}
+#recipi-section p{
+  font-size: 16px;
+  text-align: center;
+  padding: 0 150px;
+}
+.container2{
+  display: flex;
+  padding: 20px 0;
+}
+.recipi-part1{
+  width: 50%;
+  
+}
+.recipi-part1 img{
+  width: 500px;
+  box-shadow: 10px 10px 30px gray;
+  border-radius: 30px;
+}
+.recipi-part2{
+  width: 50%;
+
+}
+.recipi-part2 img{
+  width: 500px;
+  box-shadow: 10px 10px 30px gray;
+  border-radius: 30px;
+}
+/* about pat end */
+/* last section start */
+#come-dwon-section{
+  width: 100%;
+  padding: 50px 0;
+  
+  
+}
+.comedwon-part{
+  width: 1140px;
+  display: flex;
+  box-shadow: 10px 10px 30px black;
+  margin: 0 auto;
+  padding: 20px 0;
+  border-radius: 10px;
+
+}
+.youtube{
+  width: 33%;
+  text-align: center;
+}
+.youtube h1{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+.Instagram{
+  width: 33%;
+  text-align: center;
+}
+.Instagram h1{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+
+}
+.facebook{
+  width: 33%;
+  text-align: center;
+}
+.facebook h1{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+footer{
+  text-align: center;
+  background-color: #4e4f57;
+  padding: 50px 0;
+}
+.span-oreng{
+  color: orange;
+}
+footer h1{
+  color: #fff;
+}
+footer p{
+  color: #fff;
+  font-size: 15px;
+}
+
+
